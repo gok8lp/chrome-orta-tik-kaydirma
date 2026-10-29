@@ -6,7 +6,7 @@ Bu proje özelliği tek komutla açar veya kapatır ve Chrome'un bu ayar için g
 ## Kurulum
 
 ```bash
-git clone <bu-repo> && cd chrome-orta-tik-kaydirma
+git clone https://github.com/gok8lp/chrome-orta-tik-kaydirma.git && cd chrome-orta-tik-kaydirma
 ./kur.sh
 ```
 
